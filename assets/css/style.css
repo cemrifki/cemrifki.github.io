@@ -12,27 +12,28 @@ body {
 
 .contact-icons {
   display: flex;
-  gap: 2.5rem;
-  margin-top: 1rem;
+  justify-content: center;
+  gap: 2rem;
+  margin-top: 2rem;
 }
 
 .icon {
   font-size: 3rem;
-  color: #fff;
+  color: #444;
   text-decoration: none;
-  transition: transform 0.2s, color 0.2s;
+  transition: transform 0.2s ease, color 0.2s ease;
 }
 
 .icon:hover {
   transform: scale(1.2);
 }
 
-.icon.linkedin:hover {
-  color: #0a66c2;
+.icon.github:hover {
+  color: #24292e;
 }
 
-.icon.github:hover {
-  color: #6e5494;
+.icon.linkedin:hover {
+  color: #0077b5;
 }
 
 .icon.scholar:hover {
@@ -40,5 +41,5 @@ body {
 }
 
 .icon.email:hover {
-  color: #ff9800;
+  color: #d93025;
 }

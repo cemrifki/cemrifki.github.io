@@ -28,7 +28,7 @@ body {
   align-items: center;
   border-radius: 50%; /* circular buttons */
   background-color: #222; /* dark background for contrast */
-  color: #fff;
+  color: #888; /* gray icons */
   text-decoration: none;
   box-shadow: 0 4px 8px rgba(0,0,0,0.3);
   transition: all 0.25s ease-in-out;
@@ -40,16 +40,20 @@ body {
 
 .icon.github:hover {
   background-color: #24292e;
+  color: #ccc; /* optional: slightly lighter on hover */
 }
 
 .icon.linkedin:hover {
   background-color: #0077b5;
+  color: #eee;
 }
 
 .icon.scholar:hover {
   background-color: #4285f4;
+  color: #eee;
 }
 
 .icon.email:hover {
   background-color: #d93025;
+  color: #eee;
 }

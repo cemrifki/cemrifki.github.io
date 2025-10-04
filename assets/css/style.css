@@ -5,20 +5,23 @@ body {
   justify-content: center;
   min-height: 100vh;
   margin: 0;
-  background-color:white; /* White background */;
+  background-color: white; /* White background */
+  color: #111;
+  font-family: Arial, sans-serif;
 }
 
 .contact-icons {
   display: flex;
   justify-content: center;
-  align-items: center; /* vertical alignment */
+  align-items: center;
+  flex-wrap: wrap;
   gap: 2.5rem; /* space between icons */
   margin-top: 2rem;
 }
 
 .icon {
   font-size: 4rem; /* bigger icons */
-  width: 60px;    /* uniform square size */
+  width: 60px;    
   height: 60px;
   display: flex;
   justify-content: center;
@@ -27,7 +30,8 @@ body {
   background-color: #222; /* dark background for contrast */
   color: #fff;
   text-decoration: none;
-  transition: transform 0.2s, background-color 0.2s, color 0.2s;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+  transition: all 0.25s ease-in-out;
 }
 
 .icon:hover {
@@ -48,8 +52,4 @@ body {
 
 .icon.email:hover {
   background-color: #d93025;
-}
-
-.icon {
-  box-shadow: 0 4px 8px rgba(0,0,0,0.3);
 }

@@ -9,4 +9,4 @@ My main research interests include:
 - Efficient training (LoRA, ZeRO, Quantization)
 - Multilingual and multimodal systems
 
-Outside of research, I enjoy **design, writing**, and **exploring AI ecosystem**.
+Outside of research, I enjoy **design, writing**, and **exploring the AI ecosystem**.

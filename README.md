@@ -10,3 +10,5 @@ My main research interests include:
 - Multilingual and multimodal systems
 
 Outside of research, I enjoy **design, writing**, and **exploring the AI ecosystem**.
+
+[Check out my portfolio here](https://cemrifki.github.io/)

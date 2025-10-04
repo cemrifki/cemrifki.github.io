@@ -1,8 +1,3 @@
----
-layout: default
-title: About
----
-
 # About Me
 
 I hold a **Ph.D. in Computer Engineering** from **Boğaziçi University**,  

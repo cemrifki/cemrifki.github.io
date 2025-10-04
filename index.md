@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# 👋 Hi, I’m Cem Rıfkı Aydın
+# 👋 Hi, I’m Cem!
 
 I’m a **Senior Research Scientist** specialized in **Artificial Intelligence**, **Machine Learning**, and **Generative Models**.  
 My expertise includes **LLM fine-tuning**, **CUDA optimization**, and **AI system design**.

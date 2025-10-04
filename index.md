@@ -20,9 +20,17 @@ My expertise includes **LLM fine-tuning**, **CUDA optimization**, and **AI syste
 
 ### 📫 Contact
 
-<div class="contact-buttons">
-  <a href="https://www.linkedin.com/in/cem-rifki-aydin-ph-d-0698b83a/" class="btn linkedin" target="_blank">LinkedIn</a>
-  <a href="https://github.com/cemrifki" class="btn github" target="_blank">GitHub</a>
-  <a href="https://scholar.google.com/citations?user=_NzE9pUAAAAJ&hl=en" class="btn scholar" target="_blank">Google Scholar</a>
-  <a href="mailto:cemrifkiaydin@gmail.com" class="btn email">Email</a>
+<div class="contact-icons">
+  <a href="https://www.linkedin.com/in/cem-rifki-aydin-ph-d-0698b83a/" class="icon linkedin" target="_blank" title="LinkedIn">
+    <i class="fab fa-linkedin"></i>
+  </a>
+  <a href="https://github.com/cemrifki" class="icon github" target="_blank" title="GitHub">
+    <i class="fab fa-github"></i>
+  </a>
+  <a href="https://scholar.google.com/citations?user=_NzE9pUAAAAJ&hl=en" class="icon scholar" target="_blank" title="Google Scholar">
+    <i class="fas fa-graduation-cap"></i>
+  </a>
+  <a href="mailto:cemrifkiaydin@gmail.com" class="icon email" title="Email">
+    <i class="fas fa-envelope"></i>
+  </a>
 </div>

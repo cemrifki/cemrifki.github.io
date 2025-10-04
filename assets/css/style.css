@@ -10,42 +10,56 @@ body {
   font-family: Arial, sans-serif;
 }
 
-.header {
-  text-align: center; /* centers all text inside */
-  margin-top: 2rem;   /* optional spacing from top */
-}
-
+/* Header container */
 header {
-  text-align: center;  /* centers all text inside header */
-  margin-top: 2rem;    /* optional spacing */
+  text-align: center;
+  padding: 2rem 1rem;
+  background-color: #f5f5f5; /* soft gray background */
+  border-radius: 8px;
+  margin-bottom: 2rem;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
 
+/* Site title */
 header h1 {
   margin: 0;
   font-size: 2.5rem;
+  font-weight: 700;
+  color: #111;
+  font-family: 'Arial', sans-serif;
 }
 
 header h1 a {
-  color: #111;          /* black-ish text */
-  text-decoration: none; /* remove underline */
+  text-decoration: none;
+  color: #111;
+  transition: color 0.2s;
 }
 
+header h1 a:hover {
+  color: #0077b5; /* subtle hover color */
+}
+
+/* Navigation */
 header nav {
   margin-top: 0.5rem;
+  display: flex;
+  justify-content: center; /* horizontal centering */
+  gap: 1rem;              /* space between links */
   font-size: 1rem;
-  color: #555;           /* optional gray for nav links */
 }
 
 header nav a {
   color: #555;
   text-decoration: none;
-  margin: 0 0.5rem;
+  padding: 0.3rem 0.6rem;
+  border-radius: 4px;
+  transition: all 0.2s;
 }
 
 header nav a:hover {
-  color: #000;          /* darken on hover */
+  background-color: #0077b5;
+  color: #fff;
 }
-
 
 .contact-icons {
   display: flex;

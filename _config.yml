@@ -1,0 +1,16 @@
+title: "Cem Rıfkı Aydın"
+description: "Senior Research Scientist | AI & Machine Learning | LLMs, Generative AI, CUDA"
+baseurl: ""
+url: "https://cemrifki.github.io"
+theme: minima
+author:
+  name: "Cem Rıfkı Aydın"
+  email: "cemrifkiaydin@gmail.com"
+social_links:
+  github: cemrifki
+  linkedin: cemrifkiaydin
+  google_scholar: _NzE9pUAAAAJ
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag

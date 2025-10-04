@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# 👋 Hi, I’m Cem!
+# 👋 Hi, it’s Cem!
 
 I’m a **Senior Research Scientist** specialized in **Artificial Intelligence**, **Machine Learning**, and **Generative Models**.  
 My expertise includes **LLM fine-tuning**, **CUDA optimization**, and **AI system design**.

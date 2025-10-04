@@ -7,7 +7,7 @@ My main research interests include:
 - Generative AI (e.g., GPT, Stable Diffusion)
 - Reinforcement Learning & DPO/PPO
 - Efficient training (LoRA, ZeRO, Quantization)
-- Multilingual and multimodal systems
+- Multilingual and multimodal systems 
 
 Outside of research, I enjoy **design, writing**, and **exploring the AI ecosystem**.
 
